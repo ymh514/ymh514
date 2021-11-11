@@ -1,4 +1,6 @@
-### Hi there 👋
+Aye, this is Jesse from Seesaw Squad.
+
+![](https://github-readme-stats.vercel.app/api?username=ymh514&hide=contribs,pr&show_icons=true&theme=gotham&count_private=true)
 
 <!--
 **ymh514/ymh514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
