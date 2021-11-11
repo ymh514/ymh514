@@ -1,4 +1,6 @@
 Aye, this is Jesse from Seesaw Squad.
+🔥 🌲 👌 💫 🚀
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ymh514&hide=contribs,pr&show_icons=true&theme=gotham&count_private=true)
 
