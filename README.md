@@ -1,4 +1,4 @@
-Aye, this is Jesse from Seesaw Squad.
+Jesse from Seesaw Squad.
 🔥 🌲 👌 💫 🚀
 
 
